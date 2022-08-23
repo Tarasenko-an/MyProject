@@ -51,3 +51,5 @@ For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown
 * **git branch <название ветки>** – создать новую ветку
 
 * **git branch -d <название ветки>** – удалить ветку
+
+* **git checkout** <название ветки> – переход к другой ветке
