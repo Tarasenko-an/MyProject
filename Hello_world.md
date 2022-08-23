@@ -43,3 +43,7 @@
 ![picture](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png)
 
 For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown).
+
+# Работа с ветками
+
+**git branch** – посмотреть список веток в репозитории
