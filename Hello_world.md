@@ -46,4 +46,8 @@ For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown
 
 # Работа с ветками
 
-**git branch** – посмотреть список веток в репозитории
+* **git branch** – посмотреть список веток в репозитории
+
+* **git branch <название ветки>** – создать новую ветку
+
+* **git checkout** <название ветки> – переход к другой ветке
