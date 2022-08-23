@@ -49,3 +49,5 @@ For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown
 * **git branch** – посмотреть список веток в репозитории
 
 * **git branch <название ветки>** – создать новую ветку
+
+* **git branch -d <название ветки>** – удалить ветку
