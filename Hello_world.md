@@ -57,3 +57,4 @@ For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown
 ---
 
 **Учимся сливать ветки (merge1)**
+**Learn merge2 branch**
