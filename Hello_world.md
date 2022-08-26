@@ -60,3 +60,5 @@ For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown
 **Learn merge2 branch**
 **Learn merge3 branch**
 **Learn merge4 branch**
+
+Все ветки объединены, конфликты разрешены!
