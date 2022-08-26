@@ -54,6 +54,5 @@ For more information, see the [Wikipedia](https://ru.wikipedia.org/wiki/Markdown
 
 * **git checkout** <название ветки> – переход к другой ветке
 
-**get merge conflict**
-
 **Learn merge3 branch**
+**Learn merge4 branch**
